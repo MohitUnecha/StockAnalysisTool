@@ -1,2 +1,2 @@
 # StockAnalysisTool
-Predicting stocks based database 
+Predicting Stocks Based on a Article Database 
